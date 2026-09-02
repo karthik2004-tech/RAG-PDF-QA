@@ -152,7 +152,6 @@ jupyter notebook RAG_pipeline.ipynb
 B.Tech in AI & Data Science | Aspiring Data Analyst / ML Engineer / AI Engineer
 
 📍 Hyderabad, India
-🔗 [LinkedIn](#) · [Portfolio](#) · [Email](#)
 
 ---
 
