@@ -92,29 +92,7 @@ This project solves that using a technique called **Retrieval-Augmented Generati
 
 ---
 
-## 📁 Recommended Project Structure
 
-```
-rag-pdf-qa/
-├── README.md                  ← You are here
-├── RAG_pipeline.ipynb         ← Main notebook (full pipeline, step by step)
-├── requirements.txt           ← All dependencies, pinned versions
-├── .env.example                ← Template showing which API keys are needed (NOT real keys)
-├── .gitignore                  ← Excludes .env, vector DB files, checkpoints, etc.
-├── LICENSE                     ← MIT (or your preferred license)
-├── data/
-│   └── sample.pdf              ← 1 small sample PDF so reviewers can run it instantly
-├── assets/
-│   └── demo_screenshot.png     ← Screenshot or GIF of a real Q&A example
-└── src/                        ← (Optional but impressive) — pipeline broken into clean .py modules
-    ├── ingest.py
-    ├── embeddings.py
-    ├── vector_store.py
-    ├── retriever.py
-    └── generate.py
-```
-
----
 
 ## 🚀 How to Run It Yourself
 
